@@ -2,7 +2,7 @@
 - 👀 I’m a computer science student passionate about technology.
 - 🌱 I’m currently learning Frontend Development.
 - 💞️ I’m looking to collaborate on Frontend Projects.
-- Here you can see my portfolio : <a href= "https://codepen.io/emad98/full/XWZWvRZ" target = "_blank">My Portfolio</a>.
+- Here you can see my portfolio : <a href= "https://emadhussien.github.io/" target = "_blank">My Portfolio</a>.
 - 📫 How to reach me ... 
 - 📩 email : <a href= "mailto:emadhssien851@gmail.com" target = "_blank">sendMEemail</a>
 - 💬 Twitter : <a href= "https://twitter.com/EmadHussien_98" target = "_blank">My Twitter</a>
