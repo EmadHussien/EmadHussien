@@ -16,7 +16,7 @@ EmadHussien/EmadHussien is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmadHussien&layout=compact&hide=html" alt="MohamedAmrAboalazm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmadHussien&layout=compact&hide=html" alt="EmadHussienLangs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmadHussien&show_icons=true" alt="MohamedAmrAboalazm" /></p>
+<p style= {margin-top:'50px'}>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmadHussien&show_icons=true" alt="EmadHussienStats" /></p>
 
