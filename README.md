@@ -1,4 +1,4 @@
-# Hi there, I'm Emad Hussien! 👋
+# Hi there, I'm Emad Hussein! 👋
 
 I'm a passionate software engineer with a focus on Backend development using SpringBoot and Node.js. As a computer science enthusiast, I love exploring new technologies and building innovative solutions.
 
